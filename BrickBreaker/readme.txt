@@ -1,0 +1,5 @@
+- Development Period : 2024.12.19 ~ 2025.02.08
+- Team Size : 1 (Solo Project)
+- Programming Language : C#
+- Development Tools (Version) : Unity (2022.3.42f1), Visual Studio Community 2022 (17.12.1) 
+- Project Summary : Developed to practice physics of Unity Engine based game. Used Custom Editor to make and manage scene bricks setting easier. 

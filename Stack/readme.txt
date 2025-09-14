@@ -1,0 +1,5 @@
+- Development Period : 2024.11.23 ~ 2024.11.27
+- Team Size : 1 (Solo Project)
+- Programming Language : C#
+- Development Tools (Version) : Unity (2021.3.1f1), Visual Studio Community 2022 (17.12.1)
+- Project Summary : Simple hyper casual game practice following 'Stack' game.

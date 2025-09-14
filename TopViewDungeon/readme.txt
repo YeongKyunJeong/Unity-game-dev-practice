@@ -1,0 +1,5 @@
+- Development Period : 2024.11.25 ~ 2024.12.01	
+- Team Size : 1 (Solo Project)
+- Programming Language : C#
+- Development Tools (Version) : Unity (2022.3.42f1), Visual Studio Community 2022 (17.12.1) 
+- Project Summary : Simple 2D Top view Dungeon action game Practice
