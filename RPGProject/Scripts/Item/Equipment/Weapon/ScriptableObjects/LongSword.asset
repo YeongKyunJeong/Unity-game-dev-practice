@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 204680dce4576db42b655502b51edec4, type: 3}
+  m_Name: LongSword
+  m_EditorClassIdentifier: 
+  <ItemSprite>k__BackingField: {fileID: 21300000, guid: 59be040fe11e354429063a3e9c92d3b7, type: 3}
+  <DisplayName>k__BackingField: LongSword
+  <Key>k__BackingField: 0
+  <Type>k__BackingField: 0
+  <DropPrefab>k__BackingField: {fileID: 8243482275800551301, guid: 99c032096fff03848a4b17c090e28482, type: 3}
+  <CanStack>k__BackingField: 0
+  <MaxStackAmount>k__BackingField: 1
+  <UsageSoundClip>k__BackingField: {fileID: 8300000, guid: 34792f9c9ca6aa3499247edfde9d31db, type: 3}
+  <EquipmentType>k__BackingField: 0
+  <EquipPrefab>k__BackingField: {fileID: 1836944920593835934, guid: d676545c711e60140895b08e5875a80b, type: 3}
+  <AttackSoundClip>k__BackingField: {fileID: 8300000, guid: c2dade153431323449798d5d5fd92ee4, type: 3}
+  <DamageType>k__BackingField: 0
+  <RangeModifier>k__BackingField: 1
+  <SpeedModifier>k__BackingField: 1
+  <DamageBonus>k__BackingField:
+  - 10
+  - 11.5
+  - 13
+  - 14.5
+  - 16
+  - 17.5
+  <IntensityBonus>k__BackingField: 3

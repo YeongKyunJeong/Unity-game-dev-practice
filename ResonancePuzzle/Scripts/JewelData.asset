@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ef93ef82d08a4a4cbdff17c90b8a858, type: 3}
+  m_Name: JewelData
+  m_EditorClassIdentifier: 
+  jewelSprites:
+  - {fileID: 21300000, guid: 2ab27434504737040970c60516b84e9b, type: 3}
+  - {fileID: 21300000, guid: 9945243ef46fc324eaf1f5ce92cca14d, type: 3}
+  - {fileID: 21300000, guid: 62115365f3b074947a1c6a25484209d1, type: 3}
+  - {fileID: 21300000, guid: 5f8af9afc2c72514183d173afe42b150, type: 3}
+  - {fileID: 21300000, guid: db035cdfea10614488086e4b7398d6ba, type: 3}
+  - {fileID: 21300000, guid: 3132cff062369914f91a2cfe69468889, type: 3}
+  - {fileID: 21300000, guid: 423020cc842cbda4692ccf4119549b26, type: 3}
+  jewelAOCs:
+  - {fileID: 22100000, guid: 74c63c0d1e1c99b45a8570bebbbfb867, type: 2}
+  - {fileID: 22100000, guid: cbccde0ecee76bb478faf7824588343b, type: 2}
+  - {fileID: 22100000, guid: ffd5d4586e8fccb4bb856812987c0244, type: 2}
+  - {fileID: 22100000, guid: 43124f1725a29d34eaea95fe607367c0, type: 2}
+  - {fileID: 22100000, guid: 95e6861edfd7b684e88f6e25d8676c09, type: 2}
+  - {fileID: 22100000, guid: dedc22a2bc0dac048ba858f0d7e199c5, type: 2}
+  - {fileID: 22100000, guid: 6aa86cded33620c4b95d94cb73cd14aa, type: 2}
+  trapSprites:
+  - {fileID: 21300000, guid: b6200d29cc962594b9b271a6bcf1e8f4, type: 3}
+  trapAOCs:
+  - {fileID: 22100000, guid: 333181bc78e074640ad575915bf99e5d, type: 2}
+  itemSprites:
+  - {fileID: 21300000, guid: 10e263ed734e5364ab7b457fc8631ad4, type: 3}
+  itemAOCs:
+  - {fileID: 22100000, guid: 7f7d0ac74dbad4d43928b2dc14966242, type: 2}
+  popAnimationTime: 0.25

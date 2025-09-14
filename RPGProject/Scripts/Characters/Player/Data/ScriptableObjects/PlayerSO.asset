@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 069b23f26b8144347a6745677ce69a4f, type: 3}
+  m_Name: PlayerSO
+  m_EditorClassIdentifier: 
+  <MovementStateData>k__BackingField:
+    <WalkingSpeedModifier>k__BackingField: 1
+    <RunningSpeedModifier>k__BackingField: 5
+    <RotationSpeedModifier>k__BackingField: 8
+    <JumpForceModifier>k__BackingField: 5
+    <FallingThreshoildMultiplier>k__BackingField: 0.1
+    <DashingSpeedModifier>k__BackingField: 18
+    <DashingEndSpeedModifier>k__BackingField: 0.5
+    <DashingLerpModifier>k__BackingField: 0.1
+    <DashingDurationTime>k__BackingField: 0.3
+    <DashFallingDelay>k__BackingField: 0.5
+    <DashFallingModifier>k__BackingField: 0
+    FloatingHeight: 0.02
+    StartFallingMultiplier: 1
+    <GroundLayer>k__BackingField:
+      serializedVersion: 2
+      m_Bits: 64
+    RaycastDistance: 0.25
+    SlopeDetectingRayStartHeight: 0.25
+  <AttackDataLibrary>k__BackingField:
+    <BaseAttackData>k__BackingField: {fileID: 11400000, guid: 02b774a5704910c4d8b0da5d7b98b1af, type: 2}
+    <MeleeAttackDataList>k__BackingField:
+    - {fileID: 11400000, guid: 1bea0967eeed52b48ab56f9c576da9df, type: 2}
+    <RangeAttackDataList>k__BackingField:
+    - {fileID: 11400000, guid: 3157ed0254a74c946a4b108ba1264545, type: 2}
+  <EquipmentDataLibrary>k__BackingField:
+    <WeaponData>k__BackingField:
+    - {fileID: 11400000, guid: 11cb066429fc33949aafd73c65ed072a, type: 2}
+    - {fileID: 11400000, guid: d8afadcb50c7c95498177ae2ecfc6e81, type: 2}
+  <ConsumableDataLibrary>k__BackingField:
+    <ConsumableData>k__BackingField:
+    - {fileID: 11400000, guid: 00c6951a06a462a408ec27f27d7aad67, type: 2}
